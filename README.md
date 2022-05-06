@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClaudioMunozMartinez
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently working on RNN and LSTM applied on businesses
+- 🌱 I’m currently working on CNN and LSTM applied on businesses
 - 📫 claudio.munoz.martinez@gmail.com
 
 <!---
